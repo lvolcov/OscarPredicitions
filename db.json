@@ -1,0 +1,802 @@
+{
+  "categorias": {
+    "catFilme": {
+      "nomeCompleto": "Melhor Filme",
+      "nomeMenu": "Filme",
+      "nomeMenuEn": "Best Picture",
+      "nomeResumido": "catFilme",
+      "peso": 90,
+      "indicados": {
+        "indFilPai": {
+          "nomeCompleto": "Meu Pai",
+          "nomeCompletoEn": "The Father",
+          "nomeResumido": "indFilPai"
+        },
+        "indFilMessias": {
+          "nomeCompleto": "Judas e o Messias Negro",
+          "nomeCompletoEn": "Judas and the Black Messiah",
+          "nomeResumido": "indFilMessias"
+        },
+        "indFilMank": {
+          "nomeCompleto": "Mank",
+          "nomeCompletoEn": "Mank",
+          "nomeResumido": "indFilMank"
+        },
+        "indFilMinari": {
+          "nomeCompleto": "Minari",
+          "nomeCompletoEn": "Minari",
+          "nomeResumido": "indFilMinari"
+        },
+        "indFilNomadland": {
+          "nomeCompleto": "Nomadland",
+          "nomeCompletoEn": "Nomadland",
+          "nomeResumido": "indFilNomadland"
+        },
+        "indFilBela": {
+          "nomeCompleto": "Bela Vingança",
+          "nomeCompletoEn": "Promising Young Woman",
+          "nomeResumido": "indFilBela"
+        },
+        "indFilSilencio": {
+          "nomeCompleto": "Som do Silencio",
+          "nomeCompletoEn": "Sound of Metal",
+          "nomeResumido": "indFilSilencio"
+        },
+        "indFilChicago": {
+          "nomeCompleto": "Os 7 de Chicago",
+          "nomeCompletoEn": "The Trial of the Chicago 7",
+          "nomeResumido": "indFilChicago"
+        }
+      }
+    },
+    "catDirecao": {
+      "nomeCompleto": "Melhor Direção",
+      "nomeMenu": "Direção",
+      "nomeMenuEn": "Directing",
+      "nomeResumido": "catDirecao",
+      "peso": 80,
+      "indicados": {
+        "indDirVinterberg": {
+          "nomeCompleto": "Thomas Vinterberg - Druk: Mais uma Rodada",
+          "nomeCompletoEn": "Thomas Vinterberg - Another Round",
+          "nomeResumido": "indDirVinterberg"
+        },
+        "indDirFincher": {
+          "nomeCompleto": "David Fincher - Mank",
+          "nomeCompletoEn": "David Fincher - Mank",
+          "nomeResumido": "indDirFincher"
+        },
+        "indDirChung": {
+          "nomeCompleto": "Lee Isaac Chung - Minari",
+          "nomeCompletoEn": "Lee Isaac Chung - Minari",
+          "nomeResumido": "indDirChung"
+        },
+        "indDirZhao": {
+          "nomeCompleto": "Chloé Zhao - Nomadland",
+          "nomeCompletoEn": "Chloé Zhao - Nomadland",
+          "nomeResumido": "indDirZhao"
+        },
+        "indDirFennell": {
+          "nomeCompleto": "Emerald Fennell - Bela Vingança",
+          "nomeCompletoEn": "Emerald Fennell - Promising Young Woman",
+          "nomeResumido": "indDirFennell"
+        }
+      }
+    },
+    "catFotografia": {
+      "nomeCompleto": "Melhor Fotografia",
+      "nomeMenu": "Dir. Fotografia",
+      "nomeMenuEn": "Cinematography",
+      "nomeResumido": "catFotografia",
+      "peso": 60,
+      "indicados": {
+        "indFotMessias": {
+          "nomeCompleto": "Judas e o Messias Negro",
+          "nomeCompletoEn": "Judas and the Black Messiah",
+          "nomeResumido": "indFotMessias"
+        },
+        "indFotMank": {
+          "nomeCompleto": "Mank",
+          "nomeCompletoEn": "Mank",
+          "nomeResumido": "indFotMank"
+        },
+        "indFotMundo": {
+          "nomeCompleto": "Relatos do Mundo",
+          "nomeCompletoEn": "News of the World",
+          "nomeResumido": "indFotMundo"
+        },
+        "indFotNomadland": {
+          "nomeCompleto": "Nomadland",
+          "nomeCompletoEn": "Nomadland",
+          "nomeResumido": "indFotNomadland"
+        },
+        "indFotChicago": {
+          "nomeCompleto": "Os 7 de Chicago",
+          "nomeCompletoEn": "The Trial of the Chicago 7",
+          "nomeResumido": "indFotChicago"
+        }
+      }
+    },
+    "catArte": {
+      "nomeCompleto": "Melhor Design de Produção",
+      "nomeMenu": "Dir. Arte",
+      "nomeMenuEn": "Production Design",
+      "nomeResumido": "catArte",
+      "peso": 60,
+      "indicados": {
+        "indArtPai": {
+          "nomeCompleto": "Meu Pai",
+          "nomeCompletoEn": "The Father",
+          "nomeResumido": "indArtPai"
+        },
+        "indArtBlues": {
+          "nomeCompleto": "A Voz Suprema do Blues",
+          "nomeCompletoEn": "Ma Rainey's Black Bottom",
+          "nomeResumido": "indArtBlues"
+        },
+        "indArtMank": {
+          "nomeCompleto": "Mank",
+          "nomeCompletoEn": "Mank",
+          "nomeResumido": "indArtMank"
+        },
+        "indArtMundo": {
+          "nomeCompleto": "Relatos do Mundo",
+          "nomeCompletoEn": "News of the World",
+          "nomeResumido": "indArtMundo"
+        },
+        "indArtTenet": {
+          "nomeCompleto": "Tenet",
+          "nomeCompletoEn": "Tenet",
+          "nomeResumido": "indArtTenet"
+        }
+      }
+    },
+    "catrotAdapt": {
+      "nomeCompleto": "Melhor Roteiro Adaptado",
+      "nomeMenu": "Roteiro Adaptado",
+      "nomeMenuEn": "Writing (Adapted Screenplay)",
+      "nomeResumido": "catrotAdapt",
+      "peso": 70,
+      "indicados": {
+        "indRadBorat": {
+          "nomeCompleto": "Borat: Fita de Cinema Seguinte",
+          "nomeCompletoEn": "Borat Subsequent Moviefilm",
+          "nomeResumido": "indRadBorat"
+        },
+        "indRadPai": {
+          "nomeCompleto": "Meu Pai",
+          "nomeCompletoEn": "The Father",
+          "nomeResumido": "indRadPai"
+        },
+        "indRadNomadland": {
+          "nomeCompleto": "Nomadland",
+          "nomeCompletoEn": "Nomadland",
+          "nomeResumido": "indRadNomadland"
+        },
+        "indRadMiami": {
+          "nomeCompleto": "Uma Noite em Miami",
+          "nomeCompletoEn": "One Night in Miami...",
+          "nomeResumido": "indRadMiami"
+        },
+        "indRadTigre": {
+          "nomeCompleto": "O Tigre Branco",
+          "nomeCompletoEn": "The White Tiger",
+          "nomeResumido": "indRadTigre"
+        }
+      }
+    },
+    "catrotOrig": {
+      "nomeCompleto": "Melhor Roteiro Original",
+      "nomeMenu": "Roteiro Original",
+      "nomeMenuEn": "Writing (Original Screenplay)",
+      "nomeResumido": "catrotOrig",
+      "peso": 70,
+      "indicados": {
+        "indRorMessias": {
+          "nomeCompleto": "Judas e o Messias Negro",
+          "nomeCompletoEn": "Judas and the Black Messiah",
+          "nomeResumido": "indRorMessias"
+        },
+        "indRorMinari": {
+          "nomeCompleto": "Minari",
+          "nomeCompletoEn": "Minari",
+          "nomeResumido": "indRorMinari"
+        },
+        "indRorBela": {
+          "nomeCompleto": "Bela Vingança",
+          "nomeCompletoEn": "Promising Young Woman",
+          "nomeResumido": "indRorBela"
+        },
+        "indRorSilencio": {
+          "nomeCompleto": "Som do Silencio",
+          "nomeCompletoEn": "Sound of Metal",
+          "nomeResumido": "indRorSilencio"
+        },
+        "indRorChicago": {
+          "nomeCompleto": "Os 7 de Chicago",
+          "nomeCompletoEn": "The Trial of the Chicago 7",
+          "nomeResumido": "indRorChicago"
+        }
+      }
+    },
+    "catAtriz": {
+      "nomeCompleto": "Melhor Atriz",
+      "nomeMenu": "Atriz",
+      "nomeMenuEn": "Actress in a Leading Role",
+      "nomeResumido": "catAtriz",
+      "peso": 60,
+      "indicados": {
+        "indAtzViola": {
+          "nomeCompleto": "Viola Davis - A Voz Suprema do Blues",
+          "nomeCompletoEn": "Viola Davis - Ma Rainey's Black Bottom",
+          "nomeResumido": "indAtzViola"
+        },
+        "indAtzAndra": {
+          "nomeCompleto": "Andra Day - The United States vs. Billie Holiday",
+          "nomeCompletoEn": "Andra Day - The United States vs. Billie Holiday",
+          "nomeResumido": "indAtzAndra"
+        },
+        "indAtzKirby": {
+          "nomeCompleto": "Vanessa Kirby - Pieces of a Woman",
+          "nomeCompletoEn": "Vanessa Kirby - Pieces of a Woman",
+          "nomeResumido": "indAtzKirby"
+        },
+        "indAtzFrances": {
+          "nomeCompleto": "Frances McDormand - Nomadland",
+          "nomeCompletoEn": "Frances McDormand - Nomadland",
+          "nomeResumido": "indAtzFrances"
+        },
+        "indAtzCarey": {
+          "nomeCompleto": "Carey Mulligan - Bela Vingança",
+          "nomeCompletoEn": "Carey Mulligan - Promising Young Woman",
+          "nomeResumido": "indAtzCarey"
+        }
+      }
+    },
+    "catAtor": {
+      "nomeCompleto": "Melhor Ator",
+      "nomeMenu": "Ator",
+      "nomeMenuEn": "Actor in a Leading Role",
+      "nomeResumido": "catAtor",
+      "peso": 60,
+      "indicados": {
+        "indAtrRiz": {
+          "nomeCompleto": "Riz Ahmed - O Som do Silencio",
+          "nomeCompletoEn": "Riz Ahmed - Sound of Metal",
+          "nomeResumido": "indAtrRiz"
+        },
+        "indAtrBoseman": {
+          "nomeCompleto": "Chadwick Boseman - A Voz Suprema do Blues",
+          "nomeCompletoEn": "Chadwick Boseman - Ma Rainey's Black Bottom",
+          "nomeResumido": "indAtrBoseman"
+        },
+        "indAtrHopkins": {
+          "nomeCompleto": "Anthony Hopkins - Meu Pai",
+          "nomeCompletoEn": "Anthony Hopkins - The Father",
+          "nomeResumido": "indAtrHopkins"
+        },
+        "indAtrGary": {
+          "nomeCompleto": "Gary Oldman - Mank",
+          "nomeCompletoEn": "Gary Oldman - Mank",
+          "nomeResumido": "indAtrGary"
+        },
+        "indAtrYeun": {
+          "nomeCompleto": "Steven Yeun - Minari",
+          "nomeCompletoEn": "Steven Yeun - Minari",
+          "nomeResumido": "indAtrYeun"
+        }
+      }
+    },
+    "catAtrizCoad": {
+      "nomeCompleto": "Melhor Atriz Coadjuvante",
+      "nomeMenu": "Atriz Coadjuvante",
+      "nomeMenuEn": "Actress in a Supporting Role",
+      "nomeResumido": "catAtrizCoad",
+      "peso": 50,
+      "indicados": {
+        "indAzcMaria": {
+          "nomeCompleto": "Maria Bakalova - Borat: Fita de Cinema Seguinte",
+          "nomeCompletoEn": "Maria Bakalova - Borat Subsequent Moviefilm",
+          "nomeResumido": "indAzcMaria"
+        },
+        "indAzcGlenn": {
+          "nomeCompleto": "Glenn Close - Era uma Vez um Sonho",
+          "nomeCompletoEn": "Glenn Close - Hillbilly Elegy",
+          "nomeResumido": "indAzcGlenn"
+        },
+        "indAzcOlivia": {
+          "nomeCompleto": "Olivia Colman - Meu Pai",
+          "nomeCompletoEn": "Olivia Colman - The Father",
+          "nomeResumido": "indAzcOlivia"
+        },
+        "indAzcAmanda": {
+          "nomeCompleto": "Amanda Seyfried - Mank",
+          "nomeCompletoEn": "Amanda Seyfried - Mank",
+          "nomeResumido": "indAzcAmanda"
+        },
+        "indAzcYoun": {
+          "nomeCompleto": "Yuh-Jung Youn - Minari",
+          "nomeCompletoEn": "Yuh-Jung Youn - Minari",
+          "nomeResumido": "indAzcYoun"
+        }
+      }
+    },
+    "catAtorCoad": {
+      "nomeCompleto": "Melhor Ator Coadjuvante",
+      "nomeMenu": "Ator Coadjuvante",
+      "nomeMenuEn": "Actor in a Supporting Role",
+      "nomeResumido": "catAtorCoad",
+      "peso": 50,
+      "indicados": {
+        "indArcSacha": {
+          "nomeCompleto": "Sacha Baron Cohen - Os 7 de Chicago",
+          "nomeCompletoEn": "Sacha Baron Cohen - The Trial of the Chicago 7",
+          "nomeResumido": "indArcSacha"
+        },
+        "indArcDaniel": {
+          "nomeCompleto": "Daniel Kaluuya - Judas e o Messias Negro",
+          "nomeCompletoEn": "Daniel Kaluuya - Judas and the Black Messiah",
+          "nomeResumido": "indArcDaniel"
+        },
+        "indArcOdom": {
+          "nomeCompleto": "Leslie Odom Jr. - Uma Noite em Miami",
+          "nomeCompletoEn": "Leslie Odom Jr. - One Night in Miami...",
+          "nomeResumido": "indArcOdom"
+        },
+        "indArcRaci": {
+          "nomeCompleto": "Paul Raci - O Som do Silêncio",
+          "nomeCompletoEn": "Paul Raci - Sound of Metal",
+          "nomeResumido": "indArcRaci"
+        },
+        "indArcLakeith": {
+          "nomeCompleto": "Lakeith Stanfield - Judas e o Messias Negro",
+          "nomeCompletoEn": "Lakeith Stanfield - Judas and the Black Messiah",
+          "nomeResumido": "indArcLakeith"
+        }
+      }
+    },
+    "catEfeitos": {
+      "nomeCompleto": "Melhores Efeitos Visuais",
+      "nomeMenu": "Efeitos Visuais",
+      "nomeMenuEn": "Visual Effects",
+      "nomeResumido": "catEfeitos",
+      "peso": 40,
+      "indicados": {
+        "indEfeLove": {
+          "nomeCompleto": "Love and Monsters",
+          "nomeCompletoEn": "Love and Monsters",
+          "nomeResumido": "indEfeLove"
+        },
+        "indEfeCeu": {
+          "nomeCompleto": "O Céu da Meia-Noite",
+          "nomeCompletoEn": "The Midnight Sky",
+          "nomeResumido": "indEfeCeu"
+        },
+        "indEfeMulan": {
+          "nomeCompleto": "Mulan",
+          "nomeCompletoEn": "Mulan",
+          "nomeResumido": "indEfeMulan"
+        },
+        "indEfeIvan": {
+          "nomeCompleto": "O Grande Ivan",
+          "nomeCompletoEn": "The One and Only Ivan",
+          "nomeResumido": "indEfeIvan"
+        },
+        "indEfeTenet": {
+          "nomeCompleto": "Tenet",
+          "nomeCompletoEn": "Tenet",
+          "nomeResumido": "indEfeTenet"
+        }
+      }
+    },
+    "catEdicao": {
+      "nomeCompleto": "Melhor Edição",
+      "nomeMenu": "Edição",
+      "nomeMenuEn": "Film Editing",
+      "nomeResumido": "catEdicao",
+      "peso": 40,
+      "indicados": {
+        "indEdiPai": {
+          "nomeCompleto": "Meu Pai",
+          "nomeCompletoEn": "The Father",
+          "nomeResumido": "indEdiPai"
+        },
+        "indEdiNomadland": {
+          "nomeCompleto": "Nomadland",
+          "nomeCompletoEn": "Nomadland",
+          "nomeResumido": "indEdiNomadland"
+        },
+        "indEdiBela": {
+          "nomeCompleto": "Bela Vingança",
+          "nomeCompletoEn": "Promising Young Woman",
+          "nomeResumido": "indEdiBela"
+        },
+        "indEdiSilencio": {
+          "nomeCompleto": "O Som do Silencio",
+          "nomeCompletoEn": "Sound of Metal",
+          "nomeResumido": "indEdiSilencio"
+        },
+        "indEdiChicago": {
+          "nomeCompleto": "Os 7 de Chicago",
+          "nomeCompletoEn": "The Trial of the Chicago 7",
+          "nomeResumido": "indEdiChicago"
+        }
+      }
+    },
+    "catAnimacao": {
+      "nomeCompleto": "Melhor  Animação",
+      "nomeMenu": "Animação",
+      "nomeMenuEn": "Animated Feature Film",
+      "nomeResumido": "catAnimacao",
+      "peso": 40,
+      "indicados": {
+        "indAniIrmaos": {
+          "nomeCompleto": "Dois Irmãos: Uma Jornada Fantástica",
+          "nomeCompletoEn": "Onward",
+          "nomeResumido": "indAniIrmaos"
+        },
+        "indAniLua": {
+          "nomeCompleto": "A Caminho da Lua",
+          "nomeCompletoEn": "Over the Moon",
+          "nomeResumido": "indAniLua"
+        },
+        "indAniShaun": {
+          "nomeCompleto": "Shaun, o Carneiro, o Filme: A Fazenda Contra-Ataca",
+          "nomeCompletoEn": "A Shaun the Sheep Movie: Farmageddon",
+          "nomeResumido": "indAniShaun"
+        },
+        "indAniSoul": {
+          "nomeCompleto": "Soul",
+          "nomeCompletoEn": "Soul",
+          "nomeResumido": "indAniSoul"
+        },
+        "indAniWolfwalkers": {
+          "nomeCompleto": "Wolfwalkers",
+          "nomeCompletoEn": "Wolfwalkers",
+          "nomeResumido": "indAniWolfwalkers"
+        }
+      }
+    },
+    "catEstrangeiro": {
+      "nomeCompleto": "Melhor Longa Estrangeiro",
+      "nomeMenu": "Estrangeiro",
+      "nomeMenuEn": "International Feature Film",
+      "nomeResumido": "catEstrangeiro",
+      "vencedor": "indEstParasita",
+      "peso": 40,
+      "indicados": {
+        "indEstDruk": {
+          "nomeCompleto": "Druk: Mais uma Rodada",
+          "nomeCompletoEn": "Another Round",
+          "nomeResumido": "indEstDruk"
+        },
+        "indEstBetter": {
+          "nomeCompleto": "Better Day",
+          "nomeCompletoEn": "Better Days",
+          "nomeResumido": "indEstBetter"
+        },
+        "indEstCollective": {
+          "nomeCompleto": "Collective",
+          "nomeCompletoEn": "Collective",
+          "nomeResumido": "indEstCollective"
+        },
+        "indEstPele": {
+          "nomeCompleto": "O Homem que Vendeu Sua Pele",
+          "nomeCompletoEn": "The Man Who Sold His Skin",
+          "nomeResumido": "indEstPele"
+        },
+        "indEstAida": {
+          "nomeCompleto": "Quo Vadis, Aida?",
+          "nomeCompletoEn": "Quo Vadis, Aida?",
+          "nomeResumido": "indEstAida"
+        }
+      }
+    },
+    "catSom": {
+      "nomeCompleto": "Melhor Som",
+      "nomeMenu": "Melhor Som",
+      "nomeMenuEn": "Sound",
+      "nomeResumido": "catSom",
+      "peso": 30,
+      "indicados": {
+        "indSomGreyhound": {
+          "nomeCompleto": "Greyhound",
+          "nomeCompletoEn": "Greyhound",
+          "nomeResumido": "indSomGreyhound"
+        },
+        "indSomMank": {
+          "nomeCompleto": "Mank",
+          "nomeCompletoEn": "Mank",
+          "nomeResumido": "indSomMank"
+        },
+        "indSomMundo": {
+          "nomeCompleto": "Relatos do Mundo",
+          "nomeCompletoEn": "News of the World",
+          "nomeResumido": "indSomMundo"
+        },
+        "indSomSoul": {
+          "nomeCompleto": "Soul",
+          "nomeCompletoEn": "Soul",
+          "nomeResumido": "indSomSoul"
+        },
+        "indSomSilencio": {
+          "nomeCompleto": "O Som do Silencio",
+          "nomeCompletoEn": "Sound of Metal",
+          "nomeResumido": "indSomSilencio"
+        }
+      }
+    },
+    "catFigurino": {
+      "nomeCompleto": "Melhor Figurino",
+      "nomeMenu": "Figurino",
+      "nomeMenuEn": "Costume Design",
+      "nomeResumido": "catFigurino",
+      "peso": 30,
+      "indicados": {
+        "indFigEmma": {
+          "nomeCompleto": "Emma",
+          "nomeCompletoEn": "Emma",
+          "nomeResumido": "indFigEmma"
+        },
+        "indFigBlues": {
+          "nomeCompleto": "A Voz Suprema do Blues",
+          "nomeCompletoEn": "Ma Rainey's Black Bottom",
+          "nomeResumido": "indFigBlues"
+        },
+        "indFigMank": {
+          "nomeCompleto": "Mank",
+          "nomeCompletoEn": "Mank",
+          "nomeResumido": "indFigMank"
+        },
+        "indFigMulan": {
+          "nomeCompleto": "Mulan",
+          "nomeCompletoEn": "Mulan",
+          "nomeResumido": "indFigMulan"
+        },
+        "indFigPinoquio": {
+          "nomeCompleto": "Pinoquio",
+          "nomeCompletoEn": "Pinocchio",
+          "nomeResumido": "indFigPinoquio"
+        }
+      }
+    },
+    "catMaquiagem": {
+      "nomeCompleto": "Melhor Maquiagem e Cabelo",
+      "nomeMenu": "Maquiagem",
+      "nomeMenuEn": "Makeup and Hairstyling",
+      "nomeResumido": "catMaquiagem",
+      "peso": 30,
+      "indicados": {
+        "indMaqEmma": {
+          "nomeCompleto": "Emma",
+          "nomeCompletoEn": "Emma",
+          "nomeResumido": "indMaqEmma"
+        },
+        "indMaqSonho": {
+          "nomeCompleto": "Era uma Vez um Sonho",
+          "nomeCompletoEn": "Hillbilly Elegy",
+          "nomeResumido": "indMaqSonho"
+        },
+        "indMaqBlues": {
+          "nomeCompleto": "A Voz Suprema do Blues",
+          "nomeCompletoEn": "Ma Rainey's Black Bottom",
+          "nomeResumido": "indMaqBlues"
+        },
+        "indMaqMank": {
+          "nomeCompleto": "Mank",
+          "nomeCompletoEn": "Mank",
+          "nomeResumido": "indMaqMank"
+        },
+        "indMaqPinoquio": {
+          "nomeCompleto": "Pinoquio",
+          "nomeCompletoEn": "Pinocchio",
+          "nomeResumido": "indMaqPinoquio"
+        }
+      }
+    },
+    "catDocumentario": {
+      "nomeCompleto": "Melhor Documentário em Longa-Metragem",
+      "nomeMenu": "Documentário",
+      "nomeMenuEn": "Documentary (Feature)",
+      "nomeResumido": "catDocumentario",
+      "peso": 30,
+      "indicados": {
+        "indDocCollective": {
+          "nomeCompleto": "Collective",
+          "nomeCompletoEn": "Collective",
+          "nomeResumido": "indDocCollective"
+        },
+        "indDocCrip": {
+          "nomeCompleto": "Crip Camp: Revolução pela Inclusão",
+          "nomeCompletoEn": "Crip Camp",
+          "nomeResumido": "indDocCrip"
+        },
+        "indDocMole": {
+          "nomeCompleto": "The Mole Agent",
+          "nomeCompletoEn": "The Mole Agent",
+          "nomeResumido": "indDocMole"
+        },
+        "indDocPolvo": {
+          "nomeCompleto": "Professor Polvo",
+          "nomeCompletoEn": "My Octopus Teacher",
+          "nomeResumido": "indDocPolvo"
+        },
+        "indDocTime": {
+          "nomeCompleto": "Time",
+          "nomeCompletoEn": "Time",
+          "nomeResumido": "indDocTime"
+        }
+      }
+    },
+    "catTrilha": {
+      "nomeCompleto": "Melhor Trilha Sonora",
+      "nomeMenu": "Trilha Sonora",
+      "nomeMenuEn": "Music (Original Score)",
+      "nomeResumido": "catTrilha",
+      "peso": 20,
+      "indicados": {
+        "indTriBlood": {
+          "nomeCompleto": "Destacamento Blood",
+          "nomeCompletoEn": "Da 5 Bloods",
+          "nomeResumido": "indTriBlood"
+        },
+        "indTriMank": {
+          "nomeCompleto": "Mank",
+          "nomeCompletoEn": "Mank",
+          "nomeResumido": "indTriMank"
+        },
+        "indTriMinari": {
+          "nomeCompleto": "Minari",
+          "nomeCompletoEn": "Minari",
+          "nomeResumido": "indTriMinari"
+        },
+        "indTriMundo": {
+          "nomeCompleto": "Relatos do Mundo",
+          "nomeCompletoEn": "News of the World",
+          "nomeResumido": "indTriMundo"
+        },
+        "indTriSoul": {
+          "nomeCompleto": "Soul",
+          "nomeCompletoEn": "Soul",
+          "nomeResumido": "indTriSoul"
+        }
+      }
+    },
+    "catCurta": {
+      "nomeCompleto": "Melhor Curta-Metragem",
+      "nomeMenu": "Curta-Metragem",
+      "nomeMenuEn": "Short Film (Live Action)",
+      "nomeResumido": "catCurta",
+      "peso": 20,
+      "indicados": {
+        "indCrtFeeling": {
+          "nomeCompleto": "Feeling Through",
+          "nomeCompletoEn": "Feeling Through",
+          "nomeResumido": "indCrtFeeling"
+        },
+        "indCrtRoom": {
+          "nomeCompleto": "The Letter Room",
+          "nomeCompletoEn": "The Letter Room",
+          "nomeResumido": "indCrtRoom"
+        },
+        "indCrtPresent": {
+          "nomeCompleto": "The Present",
+          "nomeCompletoEn": "The Present",
+          "nomeResumido": "indCrtPresent"
+        },
+        "indCrtStrangers": {
+          "nomeCompleto": "Two Distant Strangers",
+          "nomeCompletoEn": "Two Distant Strangers",
+          "nomeResumido": "indCrtStrangers"
+        },
+        "indCrtEye": {
+          "nomeCompleto": "White Eye",
+          "nomeCompletoEn": "White Eye",
+          "nomeResumido": "indCrtEye"
+        }
+      }
+    },
+    "catMusica": {
+      "nomeCompleto": "Melhor Canção Original",
+      "nomeMenu": "Canção Original",
+      "nomeMenuEn": "Music (Original Song)",
+      "nomeResumido": "catMusica",
+      "peso": 10,
+      "indicados": {
+        "indMusMessias": {
+          "nomeCompleto": "Fight for You - Judas e o Messias Negro",
+          "nomeCompletoEn": "Fight for You - Judas and the Black Messiah",
+          "nomeResumido": "indMusMessias"
+        },
+        "indMusChicago": {
+          "nomeCompleto": "Hear my Voice - Os 7 de Chicago",
+          "nomeCompletoEn": "Hear My Voice - The Trial of the Chicago 7",
+          "nomeResumido": "indMusChicago"
+        },
+        "indMusLars": {
+          "nomeCompleto": "Husavik - Festival Eurovision da Canção: A Saga de Sigrit e Lars",
+          "nomeCompletoEn": "Husavik - Eurovision Song Contest: The Story of Fire Saga",
+          "nomeResumido": "indMusLars"
+        },
+        "indMusRosa": {
+          "nomeCompleto": "Io Sí - Rosa e Momo",
+          "nomeCompletoEn": "Io Sí - Rosa e Momo",
+          "nomeResumido": "indMusRosa"
+        },
+        "indMusMiami": {
+          "nomeCompleto": "Speak Now - Uma Noite em Miami",
+          "nomeCompletoEn": "Speak Now - One Night in Miami...",
+          "nomeResumido": "indMusMiami"
+        }
+      }
+    },
+    "catAnimacaoCurta": {
+      "nomeCompleto": "Melhor Curta em Animação",
+      "nomeMenu": "Anim. Curta-Metragem",
+      "nomeMenuEn": "Short Film (Animated)",
+      "nomeResumido": "catAnimacaoCurta",
+      "peso": 10,
+      "indicados": {
+        "indActBurrow": {
+          "nomeCompleto": "Burrow",
+          "nomeCompletoEn": "Burrow",
+          "nomeResumido": "indActBurrow"
+        },
+        "indActLoci": {
+          "nomeCompleto": "Genius Loci",
+          "nomeCompletoEn": "Genius Loci",
+          "nomeResumido": "indActLoci"
+        },
+        "indActLove": {
+          "nomeCompleto": "If Anything Happens I Love You",
+          "nomeCompletoEn": "If Anything Happens I Love You",
+          "nomeResumido": "indActLove"
+        },
+        "indActOpera": {
+          "nomeCompleto": "Opera",
+          "nomeCompletoEn": "Opera",
+          "nomeResumido": "indActOpera"
+        },
+        "indActYes": {
+          "nomeCompleto": "Yes-People",
+          "nomeCompletoEn": "Yes-People",
+          "nomeResumido": "indActYes"
+        }
+      }
+    },
+    "catDocCurta": {
+      "nomeCompleto": "Melhor Documentário em Curta-Metragem",
+      "nomeMenu": "Doc. Curta-Metragem",
+      "nomeMenuEn": "Documentary (Short Subject)",
+      "nomeResumido": "catDocCurta",
+      "peso": 10,
+      "indicados": {
+        "indDctColette": {
+          "nomeCompleto": "Colette",
+          "nomeCompletoEn": "Colette",
+          "nomeResumido": "indDctColette"
+        },
+        "indDctConcerto": {
+          "nomeCompleto": "A Concerto is a Conversation",
+          "nomeCompletoEn": "A Concerto Is a Conversation",
+          "nomeResumido": "indDctConcerto"
+        },
+        "indDctSplit": {
+          "nomeCompleto": "Do Not Split",
+          "nomeCompletoEn": "Do Not Split",
+          "nomeResumido": "indDctSplit"
+        },
+        "indDctWard": {
+          "nomeCompleto": "Hunger Ward",
+          "nomeCompletoEn": "Hunger Ward",
+          "nomeResumido": "indDctWard"
+        },
+        "indDctLatasha": {
+          "nomeCompleto": "A Love Song for Latasha",
+          "nomeCompletoEn": "A Love Song for Latasha",
+          "nomeResumido": "indDctLatasha"
+        }
+      }
+    }
+  }
+}
