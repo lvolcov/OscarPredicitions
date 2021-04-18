@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="leagueRanking_light.svg">
+   sodipodi:docname="leagueRanking.svg">
   <defs
      id="defs2">
     <rect
@@ -986,16 +986,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="258.29889"
-     inkscape:cy="823.41308"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="669.99176"
+     inkscape:cy="403.9526"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1718"
      inkscape:window-height="1351"
-     inkscape:window-x="1712"
+     inkscape:window-x="1704"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-text-baseline="true" />
@@ -1020,16 +1020,15 @@
        height="373.33334"
        preserveAspectRatio="none"
        xlink:href=ColaImg64
-       id="image1557"
+       id="image306"
        x="0"
        y="-38.166668" />
     <text
        xml:space="preserve"
        id="text1575"
-       style="fill:#1a1a1a;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.8;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;white-space:pre;shape-inside:url(#rect1577);"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.8;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;white-space:pre;shape-inside:url(#rect1577);"
        x="0"
-       y="0"
-       transform="translate(-0.77777778,0.77777781)"><tspan
+       y="0"><tspan
          x="50.37207"
          y="108.16374"><tspan
            style="text-align:center;text-anchor:middle">      nameLeague      </tspan></tspan></text>
@@ -1053,36 +1052,35 @@
        height="16.391005"
        x="27.611116"
        y="127.39694" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.72222px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
-       x="44.673817"
-       y="140.04424"
-       id="text2240"><tspan
-         sodipodi:role="line"
+    <g
+       id="g294"
+       transform="translate(27.195974,0.11390292)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.72222px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ab8307;fill-opacity:1;stroke:none;stroke-width:0.296917"
          x="44.673817"
          y="140.04424"
-         id="tspan2238"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.72222px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.296917"><tspan
-           dx="0"
-           dy="0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.72222px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ab8307;stroke-width:0.296917"
-           id="tspan2236">Top 10</tspan></tspan></text>
+         id="text2240"><tspan
+           sodipodi:role="line"
+           x="44.673817"
+           y="140.04424"
+           id="tspan2238"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.72222px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.296917"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.72222px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ab8307;stroke-width:0.296917"
+             id="tspan2236">Top 10</tspan></tspan></text>
+    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:700;font-size:5.1775px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
-       x="137.29752"
-       y="139.15546"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.77778px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ab8307;fill-opacity:1;stroke:none;stroke-width:0.296917"
+       x="140.4086"
+       y="139.93323"
        id="text2246"><tspan
          sodipodi:role="line"
-         x="137.29752"
-         y="139.15546"
-         id="tspan2244"
-         style="stroke-width:0.296917"><tspan
-           dx="0"
-           dy="0"
-           style="font-style:normal;font-variant:normal;font-weight:700;font-size:5.1775px;font-family:Arial;fill:#ab8307;stroke-width:0.296917"
-           id="tspan2242">Pontuação</tspan></tspan></text>
+         id="tspan289"
+         x="140.4086"
+         y="139.93323">Score</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
@@ -1090,15 +1088,22 @@
        y="155.21942"
        id="text2252"><tspan
          sodipodi:role="line"
-         id="tspan1427">p0p - Palpiteiro</tspan></text>
+         id="tspan1523">1 - palpP1P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
        x="135.42383"
        y="155.21942"
        id="text2258"><tspan
          sodipodi:role="line"
-         id="tspan1453">pontoS0S</tspan></text>
+         x="135.42383"
+         y="155.21942"
+         id="tspan2256"
+         style="stroke-width:0.296917"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;font-family:Arial;fill:#000000;stroke-width:0.296917"
+           id="tspan2254">pontoS1S</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
@@ -1106,15 +1111,22 @@
        y="168.51575"
        id="text2264"><tspan
          sodipodi:role="line"
-         id="tspan1429">p1p - Palpiteiro</tspan></text>
+         id="tspan1525">2 - palpP2P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
        x="135.42383"
        y="168.51575"
        id="text2270"><tspan
          sodipodi:role="line"
-         id="tspan1455">pontoS1S</tspan></text>
+         x="135.42383"
+         y="168.51575"
+         id="tspan2268"
+         style="stroke-width:0.296917"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;font-family:Arial;fill:#000000;stroke-width:0.296917"
+           id="tspan2266">pontoS2S</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
@@ -1122,15 +1134,22 @@
        y="181.81209"
        id="text2276"><tspan
          sodipodi:role="line"
-         id="tspan1431">p2p - Palpiteiro</tspan></text>
+         id="tspan1527">3 - palpP3P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
        x="135.42383"
        y="181.81209"
        id="text2282"><tspan
          sodipodi:role="line"
-         id="tspan1457">pontoS2S</tspan></text>
+         x="135.42383"
+         y="181.81209"
+         id="tspan2280"
+         style="stroke-width:0.296917"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;font-family:Arial;fill:#000000;stroke-width:0.296917"
+           id="tspan2278">pontoS3S</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
@@ -1138,15 +1157,22 @@
        y="195.10844"
        id="text2288"><tspan
          sodipodi:role="line"
-         id="tspan1433">p3p - Palpiteiro</tspan></text>
+         id="tspan1529">4 - palpP4P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
        x="135.42383"
        y="195.10844"
        id="text2294"><tspan
          sodipodi:role="line"
-         id="tspan1459">pontoS3S</tspan></text>
+         x="135.42383"
+         y="195.10844"
+         id="tspan2292"
+         style="stroke-width:0.296917"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;font-family:Arial;fill:#000000;stroke-width:0.296917"
+           id="tspan2290">pontoS4S</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
@@ -1154,15 +1180,22 @@
        y="208.40479"
        id="text2300"><tspan
          sodipodi:role="line"
-         id="tspan1435">p4p - Palpiteiro</tspan></text>
+         id="tspan1531">5 - palpP5P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
        x="135.42383"
        y="208.40479"
        id="text2306"><tspan
          sodipodi:role="line"
-         id="tspan1461">pontoS4S</tspan></text>
+         x="135.42383"
+         y="208.40479"
+         id="tspan2304"
+         style="stroke-width:0.296917"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;font-family:Arial;fill:#000000;stroke-width:0.296917"
+           id="tspan2302">pontoS5S</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
@@ -1170,15 +1203,22 @@
        y="221.70114"
        id="text2312"><tspan
          sodipodi:role="line"
-         id="tspan1437">p5p - Palpiteiro</tspan></text>
+         id="tspan1533">6 - palpP6P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
        x="135.42383"
        y="221.70114"
        id="text2318"><tspan
          sodipodi:role="line"
-         id="tspan1463">pontoS5S</tspan></text>
+         x="135.42383"
+         y="221.70114"
+         id="tspan2316"
+         style="stroke-width:0.296917"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;font-family:Arial;fill:#000000;stroke-width:0.296917"
+           id="tspan2314">pontoS6S</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
@@ -1186,15 +1226,22 @@
        y="234.99748"
        id="text2324"><tspan
          sodipodi:role="line"
-         id="tspan1445">p6p - Palpiteiro</tspan></text>
+         id="tspan1535">7 - palpP7P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
        x="135.42383"
        y="234.99748"
        id="text2330"><tspan
          sodipodi:role="line"
-         id="tspan1465">pontoS6S</tspan></text>
+         x="135.42383"
+         y="234.99748"
+         id="tspan2328"
+         style="stroke-width:0.296917"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;font-family:Arial;fill:#000000;stroke-width:0.296917"
+           id="tspan2326">pontoS7S</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
@@ -1202,15 +1249,22 @@
        y="248.29384"
        id="text2336"><tspan
          sodipodi:role="line"
-         id="tspan1447">p7p - Palpiteiro</tspan></text>
+         id="tspan1537">8 - palpP8P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
        x="135.42383"
        y="248.29384"
        id="text2342"><tspan
          sodipodi:role="line"
-         id="tspan1467">pontoS7S</tspan></text>
+         x="135.42383"
+         y="248.29384"
+         id="tspan2340"
+         style="stroke-width:0.296917"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;font-family:Arial;fill:#000000;stroke-width:0.296917"
+           id="tspan2338">pontoS8S</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
@@ -1218,15 +1272,22 @@
        y="261.59018"
        id="text2348"><tspan
          sodipodi:role="line"
-         id="tspan1449">p8p - Palpiteiro</tspan></text>
+         id="tspan1539">9 - palpP9P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
        x="135.42383"
        y="261.59018"
        id="text2354"><tspan
          sodipodi:role="line"
-         id="tspan1469">pontoS8S</tspan></text>
+         x="135.42383"
+         y="261.59018"
+         id="tspan2352"
+         style="stroke-width:0.296917"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;font-family:Arial;fill:#000000;stroke-width:0.296917"
+           id="tspan2350">pontoS9S</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
@@ -1234,15 +1295,22 @@
        y="274.88651"
        id="text2360"><tspan
          sodipodi:role="line"
-         id="tspan1451">p9p - Palpiteiro</tspan></text>
+         id="tspan1541">10 - palpP10P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
-       x="135.42383"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296917"
+       x="133.62096"
        y="274.88651"
        id="text2366"><tspan
          sodipodi:role="line"
-         id="tspan1471">pontoS9S</tspan></text>
+         x="133.62096"
+         y="274.88651"
+         id="tspan2364"
+         style="stroke-width:0.296917"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:6.08682px;font-family:Arial;fill:#000000;stroke-width:0.296917"
+           id="tspan2362">pontoS10S</tspan></tspan></text>
     <path
        style="fill:#af8605;fill-opacity:1;fill-rule:evenodd;stroke:none"
        clip-path="url(#clipEmfPath1-68)"
